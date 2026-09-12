@@ -1,4 +1,4 @@
-# Parcial 1 - Desarrollo de Plataformas Móviles Valeria Polanco 221271
+# Parcial 1 - Desarrollo de Plataformas Móviles Valeria Polanco 2221271
 
 ## MediClinic
 
